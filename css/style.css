@@ -93,6 +93,10 @@ a.circle:hover {
     background-color: #666;
 }
 
+.poem p {
+    font-style: italic;
+}
+
 footer {
     color: #AAA;
     margin-top: 5em;
